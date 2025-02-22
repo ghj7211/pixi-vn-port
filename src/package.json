@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-scripts": "^5.0.0",
+    "@mui/material": "^5.0.0",
+    "@emotion/react": "^11.0.0",
+    "@emotion/styled": "^11.0.0",
+    "framer-motion": "^11.0.0",
+    "penpal": "^6.2.2",
+    "@drincs/pixi-vn": "0.10.16"
+  },
+  "main": "/index.js",
+  "devDependencies": {}
+}
